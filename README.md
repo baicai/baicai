@@ -1,4 +1,10 @@
+-> [中文](readme-zh.md)
+
 ### Hi there 👋
+- 😄 I'm baicai, a very delicious vegetable.
+- 🌱 I‘m passionate about the integration of finance, technology and education, and I have made some attempts, most of which have failed. Some were based on personal interests, and more were involved in teams.
+- 💬 I’m currently learning and applying AI, hoping to use AI as a tool for work assistance. For example, I have built some simple backtesting models through algorithms to evaluate the rationality of my own trend analysis.
+- 🔭 I am not good at technical development. I can only write simple Python and Node.js programs. I often feel that my technical skills are not enough. Therefore, I am looking forward to meeting some friends who are good at technology. Of course, it would be better if you are also interested in finance or education.
 
 <!--
 **baicai/baicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
